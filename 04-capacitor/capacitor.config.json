@@ -1,0 +1,7 @@
+{
+  "appId": "fr.devfest.blog",
+  "appName": "fr.devfest.blog",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
